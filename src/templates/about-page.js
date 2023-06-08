@@ -11,6 +11,7 @@ export default function AboutPage({ data }) {
         <div className="mx-auto rounded-lg bg-black">
           <h1 className="px-4 py-4 text-center text-base font-bold capitalize text-white sm:text-3xl lg:text-8xl">
             {frontmatter.title}
+            <h2>lol</h2>
           </h1>
         </div>
       </div>
